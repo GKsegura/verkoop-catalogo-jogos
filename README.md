@@ -30,3 +30,7 @@ Sistema desktop em C# (Windows Forms) para gestão de catálogo de jogos, desenv
 ## Contexto
 
 Projeto desenvolvido na disciplina de C# — 2º Semestre, 2º Ano — Colégio Técnico Industrial "Prof. Isaac Portal Roldán" (UNESP).
+
+## 📊 Linguagens
+
+![Linguagens](https://raw.githubusercontent.com/GKsegura/GKsegura/main/cards/verkoop-catalogo-jogos.svg)
